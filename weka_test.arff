@@ -1,0 +1,19 @@
+@relation TestInstances
+
+@attribute health_care_index numeric
+@attribute crime_index numeric
+@attribute hotel_price_index numeric
+@attribute purchasing_power_incl_rent_index numeric
+@attribute cpi_index numeric
+@attribute pollution_index numeric
+@attribute traffic_index numeric
+@attribute groceries_index numeric
+@attribute safety_index numeric
+@attribute rent_index numeric
+@attribute restaurant_price_index numeric
+@attribute property_price_to_income_ratio numeric
+@attribute Weather {pleasant,hot,cold}
+@attribute Class {Good,Bad}
+
+@data
+{0 64.305556,1 50.101541,2 73.311119,3 148.473286,4 69.68897,5 25.431034,6 187.001153,7 70.497788,8 49.898459,9 32.960105,10 63.334557,11 3.007609}
